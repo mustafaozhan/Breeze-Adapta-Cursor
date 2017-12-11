@@ -1,5 +1,11 @@
-# Breeze-Adapta
+# Breeze-Adapta-Cursor
 Popular Breeze Cursor modified for Adapta theme
+
+# Preview
+
+<p align="center">
+<img src="https://s19.postimg.org/oezw42p9f/image.png" width="200px" /> <img src="https://s19.postimg.org/xms4krolv/image.png" width="200px" /> 
+</p>
 
 # Installation
 
