@@ -13,3 +13,11 @@ Popular Breeze Cursor modified for Adapta theme
 git clone https://github.com/mustafaozhan/Breeze-Adapta.git && cd Breeze-Adapta && chmod +x install.sh && sh install.sh
 
 ```
+
+# Thanks to
+
+<a href="https://github.com/KDE/breeze/tree/master/cursors">breeze</a>
+
+<a href="https://github.com/keeferrourke/capitaine-cursors">capitaine-cursors</a>
+
+This cursor theme modified version of two of given cursor themes
