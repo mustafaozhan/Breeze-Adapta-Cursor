@@ -24,4 +24,4 @@ git clone https://github.com/mustafaozhan/Breeze-Adapta.git && cd Breeze-Adapta 
 
 
 
-This cursor theme modified version of two of given cursor themes
+This cursor theme modified version of given cursor themes
