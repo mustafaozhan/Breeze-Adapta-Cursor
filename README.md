@@ -18,6 +18,10 @@ git clone https://github.com/mustafaozhan/Breeze-Adapta.git && cd Breeze-Adapta 
 
 <a href="https://github.com/KDE/breeze/tree/master/cursors">breeze</a>
 
+<a href="https://github.com/posquit0/dotfiles/tree/master/X/.icons/Breeze-Obsidian">Breeze-Obsidian</a>
+
 <a href="https://github.com/keeferrourke/capitaine-cursors">capitaine-cursors</a>
+
+
 
 This cursor theme modified version of two of given cursor themes
