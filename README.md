@@ -25,3 +25,8 @@ git clone https://github.com/mustafaozhan/Breeze-Adapta.git && cd Breeze-Adapta 
 
 
 This cursor theme modified version of given cursor themes
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/mustafaozhan/Breeze-Adapta-Cursor/badge.svg?style=beer-square)](https://beerpay.io/mustafaozhan/Breeze-Adapta-Cursor)  [![Beerpay](https://beerpay.io/mustafaozhan/Breeze-Adapta-Cursor/make-wish.svg?style=flat-square)](https://beerpay.io/mustafaozhan/Breeze-Adapta-Cursor?focus=wish)
