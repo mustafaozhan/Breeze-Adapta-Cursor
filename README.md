@@ -1,6 +1,8 @@
 # Breeze-Adapta-Cursor
 Popular Breeze Cursor modified for Adapta theme
 
+<a href='https://ko-fi.com/B0B2TZMH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 # Preview
 
 <p align="center">
@@ -25,8 +27,3 @@ git clone https://github.com/mustafaozhan/Breeze-Adapta.git && cd Breeze-Adapta 
 
 
 This cursor theme modified version of given cursor themes
-
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/mustafaozhan/Breeze-Adapta-Cursor/badge.svg?style=beer-square)](https://beerpay.io/mustafaozhan/Breeze-Adapta-Cursor)  [![Beerpay](https://beerpay.io/mustafaozhan/Breeze-Adapta-Cursor/make-wish.svg?style=flat-square)](https://beerpay.io/mustafaozhan/Breeze-Adapta-Cursor?focus=wish)
