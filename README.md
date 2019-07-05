@@ -12,7 +12,7 @@ Popular Breeze Cursor modified for Adapta theme
 # Installation
 
 ``` bash
-curl raw.githubusercontent.com/mustafaozhan/Breeze-Adapta-Cursor/master/install.sh | bash
+curl https://raw.githubusercontent.com/mustafaozhan/Breeze-Adapta-Cursor/master/install.sh | bash
 ```
 
 # Thanks to
