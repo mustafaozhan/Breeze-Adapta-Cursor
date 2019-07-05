@@ -1,6 +1,20 @@
 #!/bin/bash
-sudo rm -rf /usr/share/icons/Breeze-Adapta;
-sudo mkdir /usr/share/icons/Breeze-Adapta;
-sudo mv * /usr/share/icons/Breeze-Adapta;
-cd ..;
-rm -rf Breeze-Adapta;
+cd /dev/shm
+git clone https://github.com/mustafaozhan/Breeze-Adapta-Cursor
+
+cd Breeze-Adapta
+PACKAGE="/usr/share/icons/Breeze-Adapta/"
+
+if [[ -d $PACKAGE ]]; then
+    echo "Already installed, to re-install remove the $PACKAGE dir"
+    exit 1
+else
+    echo "Installation in $PACKAGE ..."
+
+    sudo mkdir $PACKAGE
+    sudo mv *.theme cursors $PACKAGE
+
+    echo Done
+fi
+
+exit 0

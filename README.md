@@ -11,9 +11,8 @@ Popular Breeze Cursor modified for Adapta theme
 
 # Installation
 
-``` 
-git clone https://github.com/mustafaozhan/Breeze-Adapta.git && cd Breeze-Adapta && chmod +x install.sh && sh install.sh
-
+``` bash
+curl https://raw.githubusercontent.com/mustafaozhan/Breeze-Adapta-Cursor/master/install.sh | bash
 ```
 
 # Thanks to
