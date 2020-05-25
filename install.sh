@@ -3,7 +3,7 @@ cd /dev/shm
 git clone https://github.com/mustafaozhan/Breeze-Adapta-Cursor
 
 cd Breeze-Adapta-Cursor
-PACKAGE="/usr/share/icons/Breeze-Adapta/"
+PACKAGE="/usr/share/icons/Breeze-Adapta-Cursor/"
 
 if [[ -d $PACKAGE ]]; then
     echo "Already installed, to re-install remove the $PACKAGE dir"
