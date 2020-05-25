@@ -2,7 +2,7 @@
 cd /dev/shm
 git clone https://github.com/mustafaozhan/Breeze-Adapta-Cursor
 
-cd Breeze-Adapta
+cd Breeze-Adapta-Cursor
 PACKAGE="/usr/share/icons/Breeze-Adapta/"
 
 if [[ -d $PACKAGE ]]; then
